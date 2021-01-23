@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
     final Future<FirebaseApp> _initialization = Firebase.initializeApp();
 
     return MaterialApp(
-        title: 'Flutter Chat',
+        title: 'Flutter Chat App',
         theme: ThemeData(
             // This is the theme of your application.
             //
